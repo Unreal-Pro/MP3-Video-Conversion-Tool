@@ -4,3 +4,5 @@ I emailed a guy who gave me this software
 It worked for me, and I figured that others might find this useful
 
 The mp3 player I have is one with the brand Pulseplay, model M18. No idea if this info means anything
+
+P.S. I've got no idea what half the buttons in the software do frfr
